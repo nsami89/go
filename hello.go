@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-func main()
-{
-	fmt.println("Hello, world!")
+func main() {
+	fmt.Printf("hello, world\n")
 }
